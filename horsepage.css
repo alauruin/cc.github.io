@@ -39,3 +39,5 @@ table a:hover {
 .tabcontent a:hover { 
   color: #024052!important;
 }
+
+main { padding: 3rem; }
