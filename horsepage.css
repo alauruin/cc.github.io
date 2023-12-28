@@ -40,4 +40,5 @@ table a:hover {
   color: #024052!important;
 }
 
-main { padding: 1rem; }
+.stats {max-width: 300px;}
+
