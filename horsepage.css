@@ -40,5 +40,8 @@ table a:hover {
   color: #024052!important;
 }
 
+.tabwrap { margin: 0 0 1.5rem;
+         color: #000000}
+
 .stats {max-width: 300px;}
 
