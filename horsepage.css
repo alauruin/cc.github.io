@@ -1,4 +1,20 @@
 @import url('https://fonts.googleapis.com/css2?family=Cinzel+Decorative&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,200..800;1,6..72,200..800&family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
+
+
+.newsreader-<uniquifier> {
+  font-family: "Newsreader", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+
+.raleway-<uniquifier> {
+  font-family: "Raleway", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
 
 h1 { font-family: 'Cinzel Decorative';  background: linear-gradient(90deg, #cde1e7 0%, transparent 33%, transparent 66%, #cde1e7 100%);} 
 
