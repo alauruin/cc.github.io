@@ -37,7 +37,7 @@ nav {
 nav a { 
   transition: .3s; 
   text-decoration: none; 
-  color: #024052!important; 
+  color: #035e78!important; 
 }
 
 nav a:hover { 
@@ -47,7 +47,7 @@ nav a:hover {
 table a { 
   transition: .3s; 
   text-decoration: none; 
-  color: #024052!important; 
+  color: #035e78!important; 
 }
 
 table a:hover { 
