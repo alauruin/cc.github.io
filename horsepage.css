@@ -22,7 +22,7 @@
   font-style: normal;
 }
 
-h1 { font-family: Cinzel Decorative;  background: linear-gradient(90deg, #cde1e7 0%, transparent 33%, transparent 66%, #cde1e7 100%);} 
+h1 { font-family: 'Cinzel Decorative', serif;  background: linear-gradient(90deg, #cde1e7 0%, transparent 33%, transparent 66%, #cde1e7 100%);} 
 
 fieldset {border: 1px solid #cde1e7; }
 
