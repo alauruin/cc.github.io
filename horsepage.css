@@ -52,6 +52,13 @@ table a:hover {
   color: #bbd2db!important; 
 }
 
+.tabcontent {
+  font-family: "Raleway", Arial, sans-serif;
+  font-weight: 100;
+  font-size: 12px;
+}
+
+
 .tabcontent a:hover { 
   color: #024052!important;
 }
