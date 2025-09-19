@@ -47,11 +47,11 @@ nav a:hover {
 table a { 
   transition: .3s; 
   text-decoration: none; 
-  color: #bbd2db!important; 
+  color: #024052!important; 
 }
 
 table a:hover { 
-  color: #024052!important;
+  color: #bbd2db!important;
 }
 
 .tabcontent a { 
@@ -73,7 +73,7 @@ table.stats {
 }
 
 .tabcontent a:hover { 
-  color: #024052!important;
+  color: #bbd2db!important;
 }
 
 .tabwrap { margin: 0 0 1.5rem;
