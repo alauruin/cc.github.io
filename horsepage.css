@@ -61,7 +61,13 @@ table a:hover {
   color: #bbd2db!important; 
 }
 
-.tabcontent, stats {
+.tabcontent {
+  font-family: 'Raleway', sans-serif;
+  font-weight: 100;
+  font-size: 12px;
+}
+
+table.stats {
   font-family: 'Raleway', sans-serif;
   font-weight: 100;
   font-size: 12px;
