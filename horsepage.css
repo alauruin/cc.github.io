@@ -58,6 +58,12 @@ table a:hover {
   font-size: 12px;
 }
 
+td.stats {
+  font-family: 'Raleway', sans-serif;
+  font-weight: 100;
+  font-size: 12px;
+}
+
 .tabcontent a:hover { 
   color: #024052!important;
 }
