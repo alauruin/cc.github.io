@@ -3,14 +3,14 @@
 <link href="https://fonts.googleapis.com/css2?family=Cinzel+Decorative:wght@400;700;900&family=Newsreader:ital,opsz,wght@0,6..72,200..800;1,6..72,200..800&family=Raleway:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
 
 .raleway-tabcontent {
-  font-family: "Raleway", sans-serif;
+  font-family: 'Raleway', sans-serif;
   font-optical-sizing: auto;
   font-weight: 100;
   font-style: normal;
 }
 
 .newsreader-tabcontent {
-  font-family: "Newsreader", serif;
+  font-family: 'Newsreader', serif;
   font-optical-sizing: auto;
   font-weight: 100;
   font-style: normal;
@@ -53,7 +53,7 @@ table a:hover {
 }
 
 .tabcontent {
-  font-family: "Newsreader", serif;
+  font-family: 'Newsreader', serif;
   font-weight: 100;
   font-size: 12px;
 }
