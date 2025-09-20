@@ -79,5 +79,8 @@ table.stats {
 .tabwrap { margin: 0 0 1.5rem;
          color: #3a6c7a}
 
+.tabwrap a:hover {
+         color: #8bb9c7}
+
 .stats {max-width: 300px;}
 
