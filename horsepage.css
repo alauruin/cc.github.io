@@ -37,11 +37,11 @@ nav {
 nav a { 
   transition: .3s; 
   text-decoration: none; 
-  color: #bbd2db!important; 
+  color: #024052!important; 
 }
 
 nav a:hover { 
-  color: #521402!important;
+  color: #bbd2db!important;
 }
 
 table a { 
@@ -57,7 +57,11 @@ table a:hover {
 .tabcontent a { 
   transition: .3s; 
   text-decoration: none; 
-  color: #568da3!important; 
+  color: #024052!important; 
+}
+
+.tabcontent a:hover { 
+  color: #bbd2db!important;
 }
 
 .tabcontent {
@@ -70,10 +74,6 @@ table.stats {
   font-family: 'Raleway', sans-serif;
   font-weight: 100;
   font-size: 14px;
-}
-
-.tabcontent a:hover { 
-  color: #bbd2db!important;
 }
 
 .tabwrap { margin: 0 0 1.5rem;
