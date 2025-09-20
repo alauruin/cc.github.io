@@ -37,17 +37,17 @@ nav {
 nav a { 
   transition: .3s; 
   text-decoration: none; 
-  color: #a35667!important; 
+  color: #568da3!important; 
 }
 
 nav a:hover { 
-  color: #bbd2db!important;
+  color: #568da3!important;
 }
 
 table a { 
   transition: .3s; 
   text-decoration: none; 
-  color: #a35667!important; 
+  color: #568da3!important; 
 }
 
 table a:hover { 
