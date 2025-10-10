@@ -58,6 +58,7 @@ table a:hover {
   transition: .3s; 
   text-decoration: none; 
   color: #3a6c7a!important; 
+  padding: 0.25rem!important;
 }
 
 .tabcontent a:hover { 
