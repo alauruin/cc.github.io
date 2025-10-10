@@ -97,7 +97,7 @@ img {vertical-align: middle;}
 }
 
 /* Next & previous buttons */
-.prev, .next {
+.prev2, .next2 {
   cursor: pointer;
   position: absolute;
   top: 50%;
@@ -119,7 +119,7 @@ img {vertical-align: middle;}
 }
 
 /* On hover, add a black background color with a little bit see-through */
-.prev:hover, .next:hover {
+.prev2:hover, .next2:hover {
   background-color: rgb(205, 225, 231, 0.5);
 }
 
