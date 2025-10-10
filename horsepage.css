@@ -68,6 +68,7 @@ table a:hover {
   font-family: 'Raleway', sans-serif;
   font-weight: 100;
   font-size: 14px;
+  margin: 0;
 }
 
 table.stats {
