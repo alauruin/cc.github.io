@@ -1,6 +1,10 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Delius&family=Henny+Penny&family=Miniver&family=Princess+Sofia&display=swap');
 
+:root {
+      --alt: #B4A5BE!important;
+}
+
 .delius-regular {
   font-family: "Delius", cursive;
   font-weight: 400;
@@ -74,6 +78,7 @@ table a:hover {
   font-family: 'Delius', sans-serif;
   font-weight: 100;
   font-size: 14px;
+  background-color: #B4A5BE;
 }
 
 table.stats {
