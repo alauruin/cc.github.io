@@ -50,7 +50,7 @@ nav a {
 }
 
 nav a:hover { 
-  color: #8bb9c7!important;
+  color: #868A5F!important;
 }
 
 table a { 
@@ -60,7 +60,7 @@ table a {
 }
 
 table a:hover { 
-  color: #8bb9c7!important;
+  color: #868A5F!important;
 }
 
 .tabcontent a { 
@@ -71,7 +71,7 @@ table a:hover {
 }
 
 .tabcontent a:hover { 
-  color: #8bb9c7!important;
+  color: #868A5F!important;
 }
 
 .tabcontent {
@@ -91,7 +91,7 @@ table.stats {
 }
 
 .tabwrap a:hover {
-         color: #8bb9c7}
+         color: #868A5F}
 
 .stats {max-width: 300px;}
 
@@ -139,14 +139,14 @@ img {vertical-align: middle;}
   height: 15px;
   width: 15px;
   margin: 10px 2px;
-  background-color: #cde1e7;
+  background-color: #635F8A;
   border-radius: 50%;
   display: inline-block;
   transition: background-color 0.6s ease;
 }
 
 .active2, .dot:hover {
-  background-color: #3a6c7a;
+  background-color: #868A5F;
 }
 
 /* Fading animation */
