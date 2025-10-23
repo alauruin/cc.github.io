@@ -2,9 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Delius&family=Henny+Penny&family=Miniver&family=Princess+Sofia&display=swap');
 
 :root {
-  --background: #fcfcfc;
   --alt: #E6E0E9!important;
-  --border: #e4e4e4;
 }
 
 .delius-regular {
@@ -52,7 +50,7 @@ nav a {
 }
 
 nav a:hover { 
-  color: #5F8A63!important;
+  color: #868A5F!important;
 }
 
 table a { 
