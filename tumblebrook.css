@@ -1,29 +1,34 @@
 
-@import url('https://fonts.googleapis.com/css2?family=Cinzel+Decorative:wght@400;700;900&family=Newsreader:ital,opsz,wght@0,6..72,200..800;1,6..72,200..800&family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Delius&family=Henny+Penny&family=Miniver&family=Princess+Sofia&display=swap');
 
-.cinzel-decorative {
-  font-family: 'Cinzel Decorative', serif;
+.delius-regular {
+  font-family: "Delius", cursive;
   font-weight: 400;
   font-style: normal;
 }
 
-.raleway-tabcontent {
-  font-family: 'Raleway', sans-serif;
-  font-optical-sizing: auto;
-  font-weight: 100;
+.princess-sofia-regular {
+  font-family: "Princess Sofia", cursive;
+  font-weight: 400;
   font-style: normal;
 }
 
-.newsreader-tabcontent {
-  font-family: 'Newsreader', serif;
-  font-optical-sizing: auto;
-  font-weight: 100;
+.miniver-regular {
+  font-family: "Miniver", cursive;
+  font-weight: 400;
   font-style: normal;
 }
+
+.henny-penny-regular {
+  font-family: "Henny Penny", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
+
 
 h1 {
-  font-family: 'Cinzel Decorative', serif;
-  background: linear-gradient(90deg, #cde1e7 0%, transparent 33%, transparent 66%, #cde1e7 100%);
+  font-family: 'Princess Sofia';
+  background: linear-gradient(90deg, #635F8A 0%, transparent 33%, transparent 66%, #635F8A 100%);
 }
 
 fieldset {border: 1px solid #cde1e7; }
