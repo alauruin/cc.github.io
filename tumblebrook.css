@@ -159,3 +159,6 @@ img {vertical-align: middle;}
   from {opacity: .4} 
   to {opacity: 1}
 }
+
+button, .button, input.btn { background: #635F8A; color: #fff; transition: .3s; }
+button:hover, .button:hover, input.btn:hover { color: #E6E0E9; background: transparent }
