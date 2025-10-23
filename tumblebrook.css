@@ -1,6 +1,12 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Delius&family=Henny+Penny&family=Miniver&family=Princess+Sofia&display=swap');
 
+:root {
+  --background: #fcfcfc;
+  --alt: #E6E0E9!important;
+  --border: #e4e4e4;
+}
+
 .delius-regular {
   font-family: "Delius", cursive;
   font-weight: 400;
@@ -158,3 +164,7 @@ img {vertical-align: middle;}
 
 button, .button, input.btn { background: #635F8A; color: #fff; transition: .3s; }
 button:hover, .button:hover, input.btn:hover { color: #E6E0E9; background: transparent }
+
+    .tablinks.active, .tabcontent {
+      background-color: var(--alt);
+    }
