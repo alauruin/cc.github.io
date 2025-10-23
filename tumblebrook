@@ -1,0 +1,151 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Cinzel+Decorative:wght@400;700;900&family=Newsreader:ital,opsz,wght@0,6..72,200..800;1,6..72,200..800&family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
+
+.cinzel-decorative {
+  font-family: 'Cinzel Decorative', serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.raleway-tabcontent {
+  font-family: 'Raleway', sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 100;
+  font-style: normal;
+}
+
+.newsreader-tabcontent {
+  font-family: 'Newsreader', serif;
+  font-optical-sizing: auto;
+  font-weight: 100;
+  font-style: normal;
+}
+
+h1 {
+  font-family: 'Cinzel Decorative', serif;
+  background: linear-gradient(90deg, #cde1e7 0%, transparent 33%, transparent 66%, #cde1e7 100%);
+}
+
+fieldset {border: 1px solid #cde1e7; }
+
+.progress {     background: #cde1e7; }
+
+nav {
+   background-color: #cde1e7;
+}
+
+nav a { 
+  transition: .3s; 
+  text-decoration: none; 
+  color: #3a6c7a!important; 
+}
+
+nav a:hover { 
+  color: #8bb9c7!important;
+}
+
+table a { 
+  transition: .3s; 
+  text-decoration: none; 
+  color: #417788!important; 
+}
+
+table a:hover { 
+  color: #8bb9c7!important;
+}
+
+.tabcontent a { 
+  transition: .3s; 
+  text-decoration: none; 
+  color: #3a6c7a!important; 
+  padding: 0.25rem!important;
+}
+
+.tabcontent a:hover { 
+  color: #8bb9c7!important;
+}
+
+.tabcontent {
+  font-family: 'Raleway', sans-serif;
+  font-weight: 100;
+  font-size: 14px;
+}
+
+table.stats {
+  font-family: 'Raleway', sans-serif;
+  font-weight: 100;
+  font-size: 14px;
+}
+
+.tabwrap { margin: 0 0 1.5rem;
+}
+
+.tabwrap a:hover {
+         color: #8bb9c7}
+
+.stats {max-width: 300px;}
+
+* {box-sizing: border-box}
+.mySlides {display: none}
+img {vertical-align: middle;}
+
+/* Slideshow container */
+.slideshow-container {
+  max-width: 1000px;
+  position: relative;
+  margin: auto;
+}
+
+/* Next & previous buttons */
+.prev2, .next2 {
+  cursor: pointer;
+  position: absolute;
+  top: 50%;
+  width: auto;
+  padding: 8px;
+  margin-top: -22px;
+  color: white;
+  font-weight: bold;
+  font-size: 18px;
+  transition: 0.6s ease;
+  border-radius: 0 3px 3px 0;
+  user-select: none;
+}
+
+/* Position the "next button" to the right */
+.next2 {
+  right: 0;
+  border-radius: 3px 0 0 3px;
+}
+
+/* On hover, add a black background color with a little bit see-through */
+.prev2:hover, .next2:hover {
+  background-color: rgb(205, 225, 231, 0.5);
+}
+
+/* The dots/bullets/indicators */
+.dot {
+  cursor: pointer;
+  height: 15px;
+  width: 15px;
+  margin: 10px 2px;
+  background-color: #cde1e7;
+  border-radius: 50%;
+  display: inline-block;
+  transition: background-color 0.6s ease;
+}
+
+.active2, .dot:hover {
+  background-color: #3a6c7a;
+}
+
+/* Fading animation */
+.fade {
+  animation-name: fade;
+  animation-duration: 1.5s;
+}
+
+@keyframes fade {
+  from {opacity: .4} 
+  to {opacity: 1}
+}
