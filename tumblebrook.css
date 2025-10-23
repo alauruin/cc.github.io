@@ -46,7 +46,7 @@ nav {
 nav a { 
   transition: .3s; 
   text-decoration: none; 
-  color: #3a6c7a!important; 
+  color: #635F8A!important; 
 }
 
 nav a:hover { 
@@ -56,7 +56,7 @@ nav a:hover {
 table a { 
   transition: .3s; 
   text-decoration: none; 
-  color: #417788!important; 
+  color: #635F8A!important; 
 }
 
 table a:hover { 
@@ -66,7 +66,7 @@ table a:hover {
 .tabcontent a { 
   transition: .3s; 
   text-decoration: none; 
-  color: #3a6c7a!important; 
+  color: #635F8A!important; 
   padding: 0.25rem!important;
 }
 
@@ -78,7 +78,7 @@ table a:hover {
   font-family: 'Delius', sans-serif;
   font-weight: 100;
   font-size: 14px;
-  background-color: ##E6E0E9;
+  background-color: #E6E0E9;
 }
 
 table.stats {
