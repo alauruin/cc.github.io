@@ -40,6 +40,18 @@ fieldset {border: 1px solid #cde1e7; }
 
 .progress {     background: #635F8A; }
 
+a:link {
+  color: #635F8A;
+}
+
+a:visited {
+  color: #635F8A;
+}
+
+a:hover {
+  color: #868A5F;
+}
+
 nav {
    background-color: #E6E0E9;
 }
