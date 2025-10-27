@@ -51,7 +51,7 @@ nav a {
 }
 
 nav a:hover { 
-  color: #718A5F!important;
+  color: #E6E0E9!important;
 }
 
 table a { 
@@ -61,7 +61,7 @@ table a {
 }
 
 table a:hover { 
-  color: #868A5F!important;
+  color: #E6E0E9!important;
 }
 
 .tabcontent a { 
@@ -72,7 +72,7 @@ table a:hover {
 }
 
 .tabcontent a:hover { 
-  color: #868A5F!important;
+  color: #E6E0E9!important;
 }
 
 .tabcontent {
@@ -93,7 +93,7 @@ table.stats {
 }
 
 .tabwrap a:hover {
-         color: #868A5F}
+         color: #E6E0E9}
 
 .stats {max-width: 300px;}
 
