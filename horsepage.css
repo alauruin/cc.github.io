@@ -15,18 +15,17 @@
 }
 
 
-.raleway-regular {
-  font-family: "Raleway", sans-serif;
+.raleway-tabcontent {
+  font-family: 'Raleway', sans-serif;
   font-optical-sizing: auto;
-  font-weight: 200;
+  font-weight: 100;
   font-style: normal;
 }
 
-
-.newsreader-regular {
-  font-family: "Newsreader", serif;
+.newsreader-tabcontent {
+  font-family: 'Newsreader', serif;
   font-optical-sizing: auto;
-  font-weight: 200;
+  font-weight: 100;
   font-style: normal;
 }
 
